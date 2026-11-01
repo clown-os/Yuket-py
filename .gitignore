@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+config.ini
+browser_data/
+logs/
+state.json
+qrcode.png
+live_index.png
+tmp_*
+live_*.png
